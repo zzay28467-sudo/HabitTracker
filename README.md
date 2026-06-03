@@ -35,7 +35,7 @@ npm install -g expo-cli
 
 2. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/zzay28467-sudo/habit-tracker.git
+git clone https://github.com/zaynabkerim/habit-tracker.git
 cd habit-tracker
 ```
 
